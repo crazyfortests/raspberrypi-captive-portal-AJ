@@ -1,5 +1,8 @@
 # 📘 Project Setup & Usage Guide
 
+
+- Tested on the Raspberry Pi 4, Raspberry Pi OS: Bullseye (11) & Bookworm (12) (64-bit)
+
 ## 🛠️ UI Modifications
 - For UI changes, edit:
   - `/public/index.html`
